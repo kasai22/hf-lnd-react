@@ -13,7 +13,7 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Hotel First",
+  title: "HotelFirst",
   description: "Hotel First Services",
 };
 
