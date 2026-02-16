@@ -14,7 +14,8 @@ const lora = Lora({
 
 export const metadata: Metadata = {
   title: "HotelFirst",
-  description: "Hotel First Services",
+  description:
+    "Hotel First Services is a leading provider of hotel management solutions, offering a comprehensive suite of services to help hotels optimize their operations and enhance guest experiences. With a focus on innovation and customer satisfaction, Hotel First Services delivers tailored solutions that meet the unique needs of each hotel, ensuring efficient management and exceptional service delivery.",
 };
 
 export default function RootLayout({
